@@ -1,0 +1,1 @@
+../build-Debug/stock/main.cpp.o   
